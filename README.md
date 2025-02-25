@@ -10,8 +10,6 @@ I am graduating from App Academy. And I am good at problem-solveing, exploring n
 **database**: SQLITE   
 **tools**: GitHub, VS Code, Figma, AWS, dbdiagram.io   
 
-## 
-
 ## ⚔️Featured Projects
 
 ⚔️Museic website
