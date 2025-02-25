@@ -7,11 +7,11 @@ I am graduating from App Academy. And I am good at problem-solveing, exploring n
 
 **languages**: JavaScript, HTML/CSS, PYTHON
 
-frameworkd/libraries: REACT, REDUX, NODE, EXPRESS, FLASK
+**frameworkd**/libraries: REACT, REDUX, NODE, EXPRESS, FLASK
 
-database: SQLITE
+**database**: SQLITE
 
-tools: GitHub, VS Code, Figma, AWS, dbdiagram.io
+**tools**: GitHub, VS Code, Figma, AWS, dbdiagram.io
 
 ## 
 
@@ -19,23 +19,23 @@ tools: GitHub, VS Code, Figma, AWS, dbdiagram.io
 
 ⚔️Museic website
 
-Description: a clone of Spotify website.
+**Description**: a clone of Spotify website.
 
-Technologies Used: React, Redux, Flask, Python, AWS
+**Technologies Used**: React, Redux, Flask, Python, AWS
 
-GitHub Repository: [Museic](https://github.com/miaohua897/Mod6_project)
+**GitHub Repository**: [Museic](https://github.com/miaohua897/Mod6_project)
 
-live link: [Museic](https://mod6-project.onrender.com)
+**live link**: [Museic](https://mod6-project.onrender.com)
 
 ⚔️PuzzlePaw website
 
-Description: a website is used to take care of dogs.
+**Description**: a website is used to take care of dogs.
 
-Technologies Used: React, Redux, Flask, Python, AWS
+**Technologies Used**: React, Redux, Flask, Python, AWS
 
-GitHub Repository: [PuzzelPaw](https://github.com/miaohua897/PuzzlePawCapstone)
+**GitHub Repository**: [PuzzelPaw](https://github.com/miaohua897/PuzzlePawCapstone)
 
-live link: [PuzzlePaw](https://puzzlepawcapstone.onrender.com)
+**live link*8: [PuzzlePaw](https://puzzlepawcapstone.onrender.com)
 
 <!--
 **miaohua897/miaohua897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
