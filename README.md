@@ -26,7 +26,10 @@ I am graduating from App Academy. And I am good at problem-solveing, exploring n
 **GitHub Repository**: [PuzzelPaw](https://github.com/miaohua897/PuzzlePawCapstone)  
 **live link**: [PuzzlePaw](https://puzzlepawcapstone.onrender.com)  
 
+##📫 How to reach me:
 
+**Email**: haijianhoubj@gmail.com  
+**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/haijian-hou-b1b32b344/)
 <!--
 **miaohua897/miaohua897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
