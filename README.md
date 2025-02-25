@@ -5,7 +5,7 @@ I am graduating from App Academy. And I am good at problem-solveing, exploring n
 
 ##  💡Skills and Technologies:
 
-languages: JavaScript, HTML/CSS, PYTHON
+**languages**: JavaScript, HTML/CSS, PYTHON
 
 frameworkd/libraries: REACT, REDUX, NODE, EXPRESS, FLASK
 
