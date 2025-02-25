@@ -16,7 +16,7 @@ Technologies Used: React, Redux, Flask, Python, AWS
 GitHub Repository: [Museic](https://github.com/miaohua897/Mod6_project)
 live link: [Museic](https://mod6-project.onrender.com)
 
-PuzzlePaw website
+⚔️PuzzlePaw website
 Description: a website is used to take care of dogs.
 Technologies Used: React, Redux, Flask, Python, AWS
 GitHub Repository: [PuzzelPaw](https://github.com/miaohua897/PuzzlePawCapstone)
