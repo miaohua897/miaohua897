@@ -1,7 +1,9 @@
 ## Hi there 👋
 I am Haijian.
 
-##  I am graduating from App Academy. And I am good at problem-solveing, exploring new skills and knowledge. I love sketching in my leisure time.
+I am graduating from App Academy. And I am good at problem-solveing, exploring new skills and knowledge. I love sketching in my leisure time.
+
+##  
 
 💡Skills and Technologies:
 
