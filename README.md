@@ -5,11 +5,11 @@ I am good at problem-solveing, exploring new skills and knowledge, having Electr
 
 ##  💡Skills and Technologies:
 
-**languages**: JavaScript, HTML/CSS, PYTHON   
-**frameworkd**/libraries: REACT, REDUX, NODE, EXPRESS, FLASK   
-**database**: SQLITE   
-**tools**: GitHub, VS Code, AWS, dbdiagram.io    
-**other softwares/method**  CSS, HFSS, FDTD   
+**Languages**: JavaScript, HTML/CSS, PYTHON   
+**Frameworkd**/libraries: REACT, REDUX, NODE, EXPRESS, FLASK   
+**Database**: SQLITE   
+**Tools**: GitHub, VS Code, AWS, dbdiagram.io    
+**Other softwares/method**  CSS, HFSS, FDTD   
 
 ## ⚔️Featured Projects
 
@@ -18,14 +18,14 @@ I am good at problem-solveing, exploring new skills and knowledge, having Electr
 **Description**: a clone of Spotify website.  
 **Technologies Used**: React, Redux, Flask, Python, AWS   
 **GitHub Repository**: [Museic](https://github.com/miaohua897/Mod6_project)  
-**live link**: [Museic](https://mod6-project.onrender.com)  
+**Live link**: [Museic](https://mod6-project.onrender.com)  
 
 ⚔️PuzzlePaw website
 
 **Description**: a website is used to take care of dogs.   
 **Technologies Used**: React, Redux, Flask, Python, AWS  
 **GitHub Repository**: [PuzzelPaw](https://github.com/miaohua897/PuzzlePawCapstone)  
-**live link**: [PuzzlePaw](https://puzzlepawcapstone.onrender.com)  
+**Live link**: [PuzzlePaw](https://puzzlepawcapstone.onrender.com)  
 
 ## 📫 How to reach me:
 
