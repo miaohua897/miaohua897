@@ -33,7 +33,7 @@ I am good at problem-solveing, exploring new skills and knowledge, having Electr
 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/haijian-hou-b1b32b344/)
 
 
-[![Miaohua's GitHub stats](https://github-readme-stats.vercel.app/api?username=miaohua897)](https://github.com/miaohua897/github-readme-stats)
+[![Miaohua's GitHub stats](https://github-readme-stats.vercel.app/api?username=miaohua897)](https://github.com/miaohua897/github-readme-stats&count_private=true)
 <!--
 **miaohua897/miaohua897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
