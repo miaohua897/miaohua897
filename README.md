@@ -8,7 +8,7 @@ I am good at problem-solveing, exploring new skills and knowledge, having Electr
 **Languages**: JavaScript, HTML/CSS, PYTHON, jinja2   
 **Frameworkd**/libraries: REACT, REDUX, NODE, EXPRESS, FLASK   
 **Database**: SQLITE   
-**Tools**: GitHub, VS Code, AWS, dbdiagram.io    
+**Tools**: GitHub, VS Code, AWS, dbdiagram.io, Websocket   
 **Other softwares/method**  CSS, HFSS, FDTD   
 
 ## ⚔️Featured Projects
