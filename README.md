@@ -37,8 +37,8 @@ I am good at problem-solveing, exploring new skills and knowledge, having Electr
 
 
 -------------------------------------------------------------------------
-
-![Miaohua's GitHub stats](https://github-readme-stats.vercel.app/api?username=miaohua897&count_private=true&show_icons=true&theme=merko)
+<!-- 
+![Miaohua's GitHub stats](https://github-readme-stats.vercel.app/api?username=miaohua897&count_private=true&show_icons=true&theme=merko) -->
 <!--
 **miaohua897/miaohua897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
