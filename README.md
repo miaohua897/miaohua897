@@ -6,7 +6,7 @@ I am good at problem-solveing, exploring new skills and knowledge, having Electr
 ##  💡Skills and Technologies:
 
 **Languages**: JavaScript, HTML/CSS, PYTHON, jinja2   
-**Frameworkd**/libraries: REACT, REDUX, NODE, EXPRESS, FLASK   
+**Frameworkd**/libraries: REACT, Vue, Angular, REDUX, NODE, EXPRESS, FLASK   
 **Database**: SQLITE   
 **Tools**: GitHub, VS Code, AWS, dbdiagram.io, Websocket   
 **Other softwares/method**  CSS, HFSS, FDTD   
