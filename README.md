@@ -31,8 +31,7 @@ I am good at problem-solveing, exploring new skills and knowledge, having Electr
 
 **Email**: haijianhoubj@gmail.com   
 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/haijian-hou-b1b32b344/)     
-**Resume**
-[resume_Fiona](https://github.com/miaohua897/miaohua897/blob/main/resume_Fiona.pdf)  
+
 
 
 
