@@ -5,9 +5,9 @@ I am good at problem-solveing, exploring new skills and knowledge, having Electr
 
 ##  💡Skills and Technologies:
 
-**Languages**: JavaScript, HTML/CSS, PYTHON, jinja2   
-**Frameworks**/**libraries**: REACT, Vue, Angular, REDUX, NODE, EXPRESS, FLASK , Django , Spring Boot       
-**Database**: SQLITE   
+**Languages**: JavaScript, HTML/CSS, PYTHON, jinja2, Typescript   
+**Frameworks**/**libraries**: REACT, Vue, Angular, REDUX, NODE, EXPRESS, FLASK , Django , Spring Boot, Next       
+**Database**: SQLITE, MongoDB            
 **Tools**: GitHub, VS Code, AWS, dbdiagram.io, Websocket   
 **Other softwares/method**  CSS, HFSS, FDTD   
 
