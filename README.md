@@ -17,8 +17,8 @@ I am good at problem-solveing, exploring new skills and knowledge, having Electr
 
 **Description**: Developed a full-stack AI resume optimization platform that enables users to upload resumes, analyze resume quality, extract key skills, and generate AI-powered resume improvement suggestions. Designed a responsive user interface and integrated AI services to provide actionable career insights.   
 **Technologies Used**: Next.js, React, TypeScript, Tailwind CSS, Claude API, PDF.js  
-**GitHub Repository**: private
-**Live link**: [ResumeAnalyzer]([(https://resume-analysis-zeta.vercel.app)])  
+**GitHub Repository**: private    
+**Live link**: [ResumeAnalyzer](https://resume-analysis-zeta.vercel.app)  
 
 ⚔️Museic website
 
