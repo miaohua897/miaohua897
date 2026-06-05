@@ -30,7 +30,9 @@ I am good at problem-solveing, exploring new skills and knowledge, having Electr
 ## 📫 How to reach me:
 
 **Email**: haijianhoubj@gmail.com   
-**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/haijian-hou-b1b32b344/)     
+**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/haijian-hou-b1b32b344/)      
+**Portfolio** [Portfolio](https://portfolio-murex-ten-89.vercel.app/)       
+
 
 
 
