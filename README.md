@@ -13,19 +13,19 @@ I am good at problem-solveing, exploring new skills and knowledge, having Electr
 
 ## ⚔️Featured Projects
 
+⚔️AI Resume Analyzer
+
+**Description**: Developed a full-stack AI resume optimization platform that enables users to upload resumes, analyze resume quality, extract key skills, and generate AI-powered resume improvement suggestions. Designed a responsive user interface and integrated AI services to provide actionable career insights.   
+**Technologies Used**: Next.js, React, TypeScript, Tailwind CSS, Claude API, PDF.js  
+**GitHub Repository**: private
+**Live link**: [ResumeAnalyzer]([(https://resume-analysis-zeta.vercel.app)])  
+
 ⚔️Museic website
 
 **Description**: a clone of Spotify website.  
 **Technologies Used**: React, Redux, Flask, Python, AWS   
 **GitHub Repository**: [Museic](https://github.com/miaohua897/Mod6_project)  
 **Live link**: [Museic](https://mod6-project.onrender.com)  
-
-⚔️PuzzlePaw website
-
-**Description**: a website is used to take care of dogs.   
-**Technologies Used**: React, Redux, Flask, Python, AWS  
-**GitHub Repository**: [PuzzelPaw](https://github.com/miaohua897/PuzzlePawCapstone)  
-**Live link**: [PuzzlePaw](https://puzzlepawcapstone.onrender.com)  
 
 ## 📫 How to reach me:
 
