@@ -13,12 +13,15 @@ I am good at problem-solveing, exploring new skills and knowledge, having Electr
 
 ## ⚔️Featured Projects
 
-⚔️AI Resume Analyzer
+⚔️Job Copilot
 
-**Description**: Developed a full-stack AI resume optimization platform that enables users to upload resumes, analyze resume quality, extract key skills, and generate AI-powered resume improvement suggestions. Designed a responsive user interface and integrated AI services to provide actionable career insights.   
-**Technologies Used**: Next.js, React, TypeScript, Tailwind CSS, Claude API, PDF.js  
+**Description**: I built Job Copilot, an AI career platform that helps job seekers turn a single resume into job opportunities.   
+                  Two core flows I focused on:
+                              Interview Practice → simulate real interviews with AI, scoring answers using STAR structure and providing a structured debrief    
+                              Job Matching + Recommendations → find relevant roles based on your resume, and directly redirect to external job sites so you can apply immediately    
+**Technologies Used**: Next.js, React, TypeScript, Tailwind CSS, Claude API, PDF.js, Clerk, MongoDB, Claude (Anthropic), Vercel 
 **GitHub Repository**: private    
-**Live link**: [ResumeAnalyzer](https://resume-analysis-zeta.vercel.app)  
+**Live link**: [JobCopilot](https://resume-analysis-zeta.vercel.app)  
 
 ⚔️Museic website
 
