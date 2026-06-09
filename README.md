@@ -29,7 +29,6 @@ b) Job Matching + Recommendations → find relevant roles based on your resume, 
 **Live link**: [JobCopilot](https://resume-analysis-zeta.vercel.app)  
 
 ⚔️Museic website
-
 **Description**: a clone of Spotify website.  
 **Tech Stack**: React, Redux, Flask, Python, AWS   
 **GitHub Repository**: [Museic](https://github.com/miaohua897/Mod6_project)  
