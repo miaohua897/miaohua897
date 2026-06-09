@@ -13,8 +13,13 @@ I am good at problem-solveing, exploring new skills and knowledge, having Electr
 
 ## ⚔️Featured Projects
 
-⚔️Job Copilot
+⚔️Solve Mystery in English        
+**Description**: AI-powered detective game that teaches English through mystery-solving. Interview AI suspects, solve cases, and improve English with adaptive conversations and real-time language feedback.          
+**Tech Stack**: React, Java Spring Boot, Python FastAPI, Redis, Firebase, Claude AI          
+**GitHub Repository**: private     
+**Live link**: [Solve Mystery in English](https://solve-mystery-in-english-frontend.vercel.app/)                      
 
+⚔️Job Copilot
 **Description**: I built Job Copilot, an AI career platform that helps job seekers turn a single resume into job opportunities.        
 **Two core flows I focused on**:    
 a) Interview Practice → simulate real interviews with AI, scoring answers.        
