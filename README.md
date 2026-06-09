@@ -24,14 +24,14 @@ I am good at problem-solveing, exploring new skills and knowledge, having Electr
 **Two core flows I focused on**:    
 a) Interview Practice → simulate real interviews with AI, scoring answers.        
 b) Job Matching + Recommendations → find relevant roles based on your resume, and directly redirect to external job sites so you can apply immediately      
-**Technologies Used**: Next.js, React, TypeScript, Tailwind CSS, Claude API, PDF.js, Clerk, MongoDB, Claude (Anthropic), Vercel 
+**Tech Stack**: Next.js, React, TypeScript, Tailwind CSS, Claude API, PDF.js, Clerk, MongoDB, Claude (Anthropic), Vercel 
 **GitHub Repository**: private    
 **Live link**: [JobCopilot](https://resume-analysis-zeta.vercel.app)  
 
 ⚔️Museic website
 
 **Description**: a clone of Spotify website.  
-**Technologies Used**: React, Redux, Flask, Python, AWS   
+**Tech Stack**: React, Redux, Flask, Python, AWS   
 **GitHub Repository**: [Museic](https://github.com/miaohua897/Mod6_project)  
 **Live link**: [Museic](https://mod6-project.onrender.com)  
 
